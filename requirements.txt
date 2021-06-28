@@ -2,5 +2,9 @@ numpy
 pandas
 pandas_profiling
 streamlit
+plotly
+matplotlib
+seaborn
+
 
 
