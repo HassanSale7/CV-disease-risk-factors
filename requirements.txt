@@ -1,6 +1,0 @@
-numpy
-pandas
-pandas_profiling
-streamlit
-
-
